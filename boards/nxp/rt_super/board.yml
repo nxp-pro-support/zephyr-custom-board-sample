@@ -1,0 +1,6 @@
+board:
+  name: rt_super
+  full_name: rt_super
+  vendor: nxp
+  socs:
+    - name: mimxrt685s
